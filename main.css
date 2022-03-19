@@ -1,0 +1,49 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+  margin-top: 20px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+nav > a {
+
+  font-size: 25px;
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: overline rgb(33, 33, 107);
+  color: rgb(33, 33, 107);
+  size: 30px;
+}
+nav > img {
+  margin-bottom: -30px;
+}
+main {
+    background: url(/images/weaving\ img.jpg);
+    background-size: cover;
+
+}
+#title {
+  text-align: center;
+  font-size: 300px;
+  color: rgb(243, 209, 209);
+  
+}
+p {
+    font-size: 20px;
+    float: right;
+}
+main > a {
+    float: right;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(180, 179, 179);
+    margin-top: 90px;
+}
+main > a:hover {
+    text-decoration: overline red;
+}
