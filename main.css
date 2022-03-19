@@ -7,6 +7,7 @@ body * {
 }
 
 body {
+  background-color: rgb(195, 224, 250);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
@@ -51,12 +52,13 @@ p {
   width: 30%;
   margin-right: 90px;
   font: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 main > a {
   text-decoration: none;
   font-size: 30px;
   color: black;
-  background-color: rgb(219, 219, 219);
+  background-color: rgb(117, 167, 187);
   margin-top: 130px;
   margin-bottom: 20px;
   float: right;
